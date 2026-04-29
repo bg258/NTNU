@@ -1,3 +1,4 @@
-# Test GitHub
+# NTNU
 
-Dette er mitt første prosjekt i VS Code.
+ NTNU - prosjekt
+ 
